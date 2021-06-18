@@ -1,0 +1,136 @@
+
+*{box-sizing:border-box}
+
+header{
+    height: 64px;
+    display:flex ;
+    border-bottom: 1px solid rgb(224, 243, 244);
+    }
+    body{
+        margin: 0px;
+    }
+    .inner-first-div{
+        display: flex;
+        height: 48px;
+    }
+    #inner_part1{
+        display: flex;
+        min-width: 238px;
+    }
+    #manu-bar{
+        width: 44px;
+    }
+    #bar{ 
+        margin-top: 16px;
+        margin-left: 15px;
+        font-size: 18px;
+    }
+    #inner-header{
+        height: 48px;
+        width: 1336%;
+        padding: 8;
+        padding: 8;
+        margin-top: 8px;
+        margin-left: 8px;
+        margin-right: 8px;
+        margin-bottom: 8px;
+    }
+
+
+    .inner_part2{
+        min-width:  1016px;
+        display: flex;
+    }
+
+    .search-div{
+        min-width: 928px;
+        height: 48px;
+    }
+    
+
+    .app-profile-lodo-div{
+        min-width: 96px;
+        height: 48px;
+        
+    padding-left: 2px;
+    padding-right: 4px;
+    display: flex;
+
+    }
+
+    .formw_722-flex{
+        width: 722px;
+        height: 48px;
+        display: flex;
+        background:rgb(241, 243, 244);
+        border-radius: 8px;
+    }
+
+    .input-serch{
+        height: 45px; width: 568px;border: none;
+        font-size: 17px;
+        background:rgb(241, 243, 244)
+    }
+
+    .search-box568{
+        height: 48px;
+    }
+    .w_56{
+        
+        border: none;
+        width: 56px;
+    }
+    .btn-bg{
+        background: none;
+    }
+
+
+    .support-setting-div{
+        min-width: 88px;
+        height: 44px;
+        display: flex;
+
+    }
+
+    .support-logo{
+        width: 44px;
+        height: 44px;
+
+    } 
+    .setting-logo{
+        width: 44px;
+        height: 44px;
+
+    }
+    .s-s_icon{
+        font-size: 21px;
+    margin-top: 11px;
+    margin-left: 10px;
+    }
+
+    .app_logo{
+        width: 42px;
+        height: 48px;
+        display: flex;
+
+    }
+
+    .setting_logo{
+        width: 48px;
+        height: 48px;
+
+    }
+
+
+    #app-profl{
+        font-size: 20px;
+    margin-top: 13px;
+    margin-left: 13px;
+        
+    }
+
+    .pro-icon{
+        font-size: 38px;
+    margin-left: 5px;
+    margin-top: 5px;
+    }
